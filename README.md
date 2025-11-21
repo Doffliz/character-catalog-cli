@@ -15,10 +15,11 @@ Main responsibilities:
 
 ## How to run
 
-1. Install [.NET SDK](https://dotnet.microsoft.com/).
+1. Install the [.NET SDK](https://dotnet.microsoft.com/en-us/download).
+
 2. Clone this repository:
 
 ```bash
 git clone https://github.com/Doffliz/character-catalog-cli.git
-cd "character-catalog-cli/Console app char"
+cd character-catalog-cli
 dotnet run
